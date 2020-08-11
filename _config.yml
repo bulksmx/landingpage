@@ -34,20 +34,20 @@ youtube_username                          : bulksmx
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Promociones
+    description                           : Implementa el envío de promociones a través de SMS. Logra mantenerte en la mente de tu consumidor y aumenta tus ventas creando campañas más efectivas.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Cobranza efectiva
+    description                           : ¿Tus clientes no te pagan?Bríndales alternativas de pago enviando recordatorios y solicitudes para que tus labores de cobranza no sean un problema.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Autenticación de usuarios
+    description                           : Si necesitas verificar la identidad de tus usuarios, envíales un SMS de confirmación. Logra que tus procesos de registro o validación sean seguros.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Llévalos a WhatsApp
+    description                           : Envía SMS y agrega enlaces a redes sociales para ampliar tus canales de comunicación. ¡Todo esto sin costo adicional!
     fontawesome_icon_name                 : sync
 
   - title                                 : Easy to Tweak
