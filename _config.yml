@@ -48,7 +48,7 @@ features                                  :
 
   - title                                 : Llévalos a WhatsApp
     description                           : Envía SMS y agrega enlaces a redes sociales para ampliar tus canales de comunicación. ¡Todo esto sin costo adicional!
-    fontawesome_icon_name                 : whatsapp
+    fontawesome_icon_name                 : whatsapp-square
 
   - title                                 : Potenciar
     description                           : Aumenta la notoriedad de tu negocio con tu marca en el remitente.
