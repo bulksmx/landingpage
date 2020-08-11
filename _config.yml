@@ -36,19 +36,19 @@ features                                  :
 
   - title                                 : Promociones
     description                           : Implementa el envío de promociones a través de SMS. Logra mantenerte en la mente de tu consumidor y aumenta tus ventas creando campañas más efectivas.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : ad
     
   - title                                 : Cobranza efectiva
     description                           : ¿Tus clientes no te pagan?Bríndales alternativas de pago enviando recordatorios y solicitudes para que tus labores de cobranza no sean un problema.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : money-bill
 
   - title                                 : Autenticación de usuarios
     description                           : Si necesitas verificar la identidad de tus usuarios, envíales un SMS de confirmación. Logra que tus procesos de registro o validación sean seguros.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : users
 
   - title                                 : Llévalos a WhatsApp
     description                           : Envía SMS y agrega enlaces a redes sociales para ampliar tus canales de comunicación. ¡Todo esto sin costo adicional!
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : whatsapp
 
   - title                                 : Easy to Tweak
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
