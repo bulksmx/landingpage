@@ -50,24 +50,24 @@ features                                  :
     description                           : Envía SMS y agrega enlaces a redes sociales para ampliar tus canales de comunicación. ¡Todo esto sin costo adicional!
     fontawesome_icon_name                 : whatsapp
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Potenciar
+    description                           : Aumenta la notoriedad de tu negocio con tu marca en el remitente.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Landing SMS
+    description                           : Aumenta la notoriedad de tu negocio con tu marca en el remitente.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Solicitar pagos SMS
+    description                           : Aumenta la notoriedad de tu negocio con tu marca en el remitente.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Correo electrónico
+    description                           : Aumenta la notoriedad de tu negocio con tu marca en el remitente.
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Camapañas publicitarias
+    description                           : Aumenta la notoriedad de tu negocio con tu marca en el remitente.
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
