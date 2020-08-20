@@ -22,7 +22,7 @@
             <script>
                 $(function() {
                     $(".videoContainer").removeClass("hidden");
-                    $(".screenvideo").append('<source src="{{ site.github.baseurl }}{{ file.path }}" type="video/mp4">');
+                    $(".screenvideo").append('<video width="500" height="900" controls><source src="{{ site.github.baseurl }}{{ file.path }}" type="video/mp4"></video>');
                     console.log("{{ file.path }}");
                 });
             </script>
